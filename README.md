@@ -56,4 +56,5 @@ Lost or Low-Value Base (Budget Optimization):
 Stop paid retargeting campaigns for long-inactive cohorts (>640 days recency) to maximize Return on Ad Spend (ROAS).
 
 **Project Resources and Links**
-Visualization / Dashboard: [View Tableau Dashboard](https://public.tableau.com/views/CustomerSegmentationRevenueIntelligenceDashboardRFMAnalyticsApproach/DashboardRFM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Visualization : [View Tableau Dashboard](https://public.tableau.com/views/CustomerSegmentationRevenueIntelligenceDashboardRFMAnalyticsApproach/DashboardRFM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
